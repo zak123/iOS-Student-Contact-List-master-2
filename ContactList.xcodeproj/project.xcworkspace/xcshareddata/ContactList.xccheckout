@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04DF215A-A688-482B-8E8C-258CB5708342</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContactList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED4A0E03396036CCF7E1E73E9E88CB3EE3EFBE49</key>
+		<string>https://github.com/98chimp/iOS-Student-Contact-List.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContactList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED4A0E03396036CCF7E1E73E9E88CB3EE3EFBE49</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/98chimp/iOS-Student-Contact-List.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED4A0E03396036CCF7E1E73E9E88CB3EE3EFBE49</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED4A0E03396036CCF7E1E73E9E88CB3EE3EFBE49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Student-Contact-List</string>
+		</dict>
+	</array>
+</dict>
+</plist>
